@@ -665,3 +665,8 @@ header {
     }
   }
 }
+@media (max-width: 768px) {
+  * {
+    cursor: default !important;
+  }
+}

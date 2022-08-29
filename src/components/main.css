@@ -633,4 +633,9 @@ header .buttons button:hover, header .buttons button.active {
     gap: 20px;
     flex-direction: column;
   }
+}
+@media (max-width: 768px) {
+  * {
+    cursor: default !important;
+  }
 }/*# sourceMappingURL=main.css.map */
